@@ -1,4 +1,3 @@
-Great, with that additional information in mind, here's a revised description for your GitHub repository:
 
 ---
 
