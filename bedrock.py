@@ -5,14 +5,16 @@ from langchain.llms.bedrock import Bedrock
 from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 def bedrock_chain():
-    profile = os.environ["AWS_PROFILE"]="default"
+    # Set the AWS profile to be used by Boto3.
+    # Replace "default" with the name of your AWS profile if it's different.
+    profile = os.environ["AWS_PROFILE"]="default"    
 
 
     bedrock_runtime = boto3.client(
         service_name="bedrock-runtime",
-        aws_access_key_id="AKIAQJ344EFEBF4QT3FH",
+        aws_access_key_id="xxxxxxxxxxxxxxxxxxxx",    #substitute with your aws access key id
 
-        aws_secret_access_key="atsDcM9QQsOdhMSDqH4+x+I9g2ZdvWODZq4ez/ig",
+        aws_secret_access_key="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",  #substitute with your aws secret access key
         region_name="us-east-1"
     )
 
