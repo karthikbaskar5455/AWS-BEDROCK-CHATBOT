@@ -56,4 +56,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
+##Output 
+![output1](https://github.com/karthikbaskar5455/AWS-BEDROCK-CHATBOT/assets/164629495/341caedf-b4e0-44f1-840f-8996a1def7a8)
+![output2](https://github.com/karthikbaskar5455/AWS-BEDROCK-CHATBOT/assets/164629495/8a12a79b-36a8-4000-a579-74bd30725687)
+![output3](https://github.com/karthikbaskar5455/AWS-BEDROCK-CHATBOT/assets/164629495/1f5c36b4-d700-48cb-8d1f-292ad44b4b5e)
+![output4](https://github.com/karthikbaskar5455/AWS-BEDROCK-CHATBOT/assets/164629495/59c4ec01-17ef-4f05-af28-d38884402164)
+![output5](https://github.com/karthikbaskar5455/AWS-BEDROCK-CHATBOT/assets/164629495/ab9508d1-31d5-40fb-bd7b-bf525a37d7ac)
 
