@@ -1,7 +1,7 @@
 
 ---
 
-# Amazon Bedrock Chatbot Streamlit App
+# Amazon Bedrock Chatbot Streamlit App - by Karthik B
 
 This repository hosts a Streamlit-based web application that leverages Amazon Bedrock for implementing a chatbot powered by AI. Users can interact with the chatbot by asking questions, and the AI model responds with helpful answers. The project uses the AWS Bedrock service to deploy and manage the chatbot's language models.
 
